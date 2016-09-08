@@ -9,13 +9,8 @@ class UsersController {
 
 
     def index() { 
-
-    		List std = Students.list()
-    		for(int i = 0; i < std.size(); i++) {
-            println(std.get(i));
-
     }
-}
+
 
 	def login(){
 

@@ -1,9 +1,9 @@
 package loginapp
 
-class UserOne {
+class Reg {
 
-	String userName
-	String password
+	String user
+	String pass
 
     static constraints = {
     }
